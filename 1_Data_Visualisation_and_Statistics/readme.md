@@ -4,7 +4,8 @@
 ## The Data
 
 The file landslide_data3.csv contains a huge amount of data collected from the various monitoring stations set up by
-IIT Mandi all across Himachal Pradesh, India. The format of the collected data is 
+IIT Mandi all across Himachal Pradesh, India. 
+The format of the collected data is 
 (dates,stationid,temperature,humidity,pressure,rain,lightavgw/o0,lightmax,moisture)
 
 
