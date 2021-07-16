@@ -28,7 +28,7 @@ calculated forthe original data, mean substituted data and the interpolated data
 
 {Question 4_b} Lastly, the Root Mean Square Error, in estimating the data by using our two methods, when compared with 
 the true values, as obtained from the original file, for every individual attribute was calculated. We quickly learnt 
-that mean substitutionis inaccurate while interpolation was equally worse with the non-sequential nature of the data we had.
+that mean substitution is inaccurate while interpolation was equally worse with the non-sequential nature of the data we had.
 
 {Question 5} Next, the boxplots for the attributes Age and BMI were created and the outliers obtained for the same. These
 outliers were then replaced by the sample medians and new boxplots were created. Formation of new outliers observed.
