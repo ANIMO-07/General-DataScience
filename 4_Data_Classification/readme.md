@@ -77,9 +77,9 @@ min-max normalisation. Here, the min and max are obtained from the training set.
 
 ### Question 3
 As a part of q3, we perform classification here using yet another method, namely the Naive Bayes Classifier. This method requires
-us to build Gaussian Mixture Models for the various target variables. The classifiers need to be built beforehand and hence 
-require preprocessing unlike KNN which requires zero preprocessing. On the other hand KNN needs a lot of computation in the testing
-phase which is not true for Bayes.
+us to build Normal Distribution/bell curve/gaussian curve for the various target variables. The classifiers need to be built 
+beforehand and hence require preprocessing unlike KNN which requires zero preprocessing. On the other hand KNN needs a lot of 
+computation in the testing phase which is not true for Bayes.
 
 After building the models individual test cases are put into the model and the **likelihood** of the testcase being a part of the 
 various different classes is calculated. The formula for likelihood is as follows:
