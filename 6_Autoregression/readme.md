@@ -15,7 +15,7 @@ file "datasetA6_HP.csv" with the first column representing the date and the seco
 
 ## Requirements
 
-[pandas](https://pandas.pydata.org/)
-[matplotlib](https://matplotlib.org/)
-[scikit-learn](https://scikit-learn.org/)
-[statsmodels](https://www.statsmodels.org)
+[pandas](https://pandas.pydata.org/)  
+[matplotlib](https://matplotlib.org/)  
+[scikit-learn](https://scikit-learn.org/)  
+[statsmodels](https://www.statsmodels.org)  

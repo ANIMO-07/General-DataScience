@@ -36,6 +36,6 @@ outliers were then replaced by the sample medians and new boxplots were created.
 
 ## Requirements
 
-[numpy](https://numpy.org/)
-[pandas](https://pandas.pydata.org/)
-[matplotlib](https://matplotlib.org/)
+[numpy](https://numpy.org/)  
+[pandas](https://pandas.pydata.org/)  
+[matplotlib](https://matplotlib.org/)  

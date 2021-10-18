@@ -22,8 +22,8 @@ The main task here is to partition/cluster the training data into 10 clusters us
 
 ## Requirements
 
-[numpy](https://numpy.org/)
-[pandas](https://pandas.pydata.org/)
-[matplotlib](https://matplotlib.org/)
-[scikit-learn](https://scikit-learn.org/)
-[scipy](https://www.scipy.org/)
+[numpy](https://numpy.org/)  
+[pandas](https://pandas.pydata.org/)  
+[matplotlib](https://matplotlib.org/)  
+[scikit-learn](https://scikit-learn.org/)  
+[scipy](https://www.scipy.org/)  

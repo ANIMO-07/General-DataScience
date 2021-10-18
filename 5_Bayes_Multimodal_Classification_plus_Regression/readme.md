@@ -66,7 +66,7 @@ clear.
 
 ## Requirements
 
-[numpy](https://numpy.org/)
-[pandas](https://pandas.pydata.org/)
-[matplotlib](https://matplotlib.org/)
-[scikit-learn](https://scikit-learn.org/)
+[numpy](https://numpy.org/)  
+[pandas](https://pandas.pydata.org/)  
+[matplotlib](https://matplotlib.org/)  
+[scikit-learn](https://scikit-learn.org/)  

@@ -107,6 +107,6 @@ KNN classifier on Normalised Data and Bayes Classifier on Unimodal Gaussian Dens
 
 ## Requirements
 
-[numpy](https://numpy.org/)
-[pandas](https://pandas.pydata.org/)
-[scikit-learn](https://scikit-learn.org/)
+[numpy](https://numpy.org/)  
+[pandas](https://pandas.pydata.org/)  
+[scikit-learn](https://scikit-learn.org/)  
